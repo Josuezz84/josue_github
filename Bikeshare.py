@@ -53,7 +53,7 @@ def get_filters():
 
         except Exception as error:
             print(f"an error occurred: {error}")
-            
+#adding a description to the load data function            
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
