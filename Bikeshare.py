@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 
 #This is a change to be shown in git diff
+#Checking code throughout the project
 
 CITY_DATA = { 'chicago':'chicago.csv',
               'new york city': 'new_york_city.csv',
