@@ -83,7 +83,7 @@ def load_data(city, month, day):
 
 #print(load_data(city, month, day))
 
-
+#time stats funcionality
 def time_stats(df, city, month, day):
     """Displays statistics on the most frequent times of travel."""
 
